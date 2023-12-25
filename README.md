@@ -1,2 +1,2 @@
 # Djangotest
-First Django Test
+First Django Test store site (digikala)
